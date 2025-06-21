@@ -63,7 +63,7 @@
 
 1. Clone the repo  
 bash
-git clone https://github.com/YourUsername/authenticator.git
+git clone https://github.com/AboudDib/PRODIGY_FS_01.git
 cd authenticator
 Install dependencies
 
